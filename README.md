@@ -1,8 +1,6 @@
 # Finance Control System with React.JS
 Preview: <br>
-<img align="center" alt="" height="280"  src="https://github.com/AR097/Financial_Control_APP/blob/main/img/img_APP.png?raw=true">
-
-
+![image](https://github.com/AR097/Financial_Control_APP/assets/107823438/e0736db7-cf91-4f77-b2f7-859b99140bb2)
 
 #### **Clone this repository:**
  ```sh
